@@ -32,6 +32,9 @@ __marimo__/
 
 # DLT
 .dlt/
+.dlt\
+.dlt\*
+.dlt/*
 
 # Database files
 *.duckdb
